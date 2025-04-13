@@ -742,7 +742,7 @@ a:focus {
   background-repeat: no-repeat;
   background-size: 12px;
   background-position: center;
-  background-color: #fd9c6b;
+  background-color: #242541;
   background-position: center;
   border-radius: 5px;
   margin: 0 2.5px;
@@ -792,7 +792,7 @@ a:focus {
   outline: none;
   color: #ffffff;
   border: none;
-  border-bottom: 1px solid #fd9c6b;
+  border-bottom: 1px solid #242541;
 }
 
 .info_section .info_form form input::-webkit-input-placeholder {
@@ -813,24 +813,24 @@ a:focus {
 
 .info_section .info_form form button {
   background-color: transparent;
-  color: #fd9c6b;
+  color: #242541;
   text-transform: uppercase;
   font-size: 12px;
   outline: none;
   border: none;
   display: inline-block;
   padding: 15.5px 25px;
-  background-color: #fd9c6b;
+  background-color: #242541;
   color: #ffffff;
   border-radius: 0;
-  border: 1px solid #fd9c6b;
+  border: 1px solid #242541;
   -webkit-transition: all .2s;
   transition: all .2s;
 }
 
 .info_section .info_form form button:hover {
   background-color: transparent;
-  color: #fd9c6b;
+  color: #242541;
 }
 
 .info_section .social_box {
@@ -885,7 +885,7 @@ a:focus {
 }
 
 .info_section .info_links .info_links_menu a:hover {
-  color: #fd9c6b;
+  color: #242541;
 }
 
 .info_section .info_insta .insta_box {

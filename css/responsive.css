@@ -21,12 +21,30 @@
   }
 }
 
+.row {
+   
+    gap: 239px;
+    
+}
+
+
+
+
+
+
+
+
+
+
 @media (max-width: 800px) {}
 
 @media (max-width: 768px) {
   .slider_section .detail-box h1 {
     font-size: 2.5rem;
   }
+
+
+  
 
   .slider_section .slider_bg_box img {
     object-position: 20% center;
